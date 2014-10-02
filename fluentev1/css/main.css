@@ -2371,6 +2371,13 @@ span.color-red {
   padding-top: 0;
   padding-bottom: 0;
 }
+.mainmenu li.logo-wrapper a h2 {
+  background: url('../img/logo_black_small.png') no-repeat;
+  text-indent: -9999px;
+  width:100px;
+  height: 100px;
+  margin-left: -30px;
+}
 .mainmenu-wrapper {
   background-color: #FFF;
   border-bottom: 4px solid #4f8db3;
